@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Materia",
+    "background": "#263238",
+    "foreground": "#cdd3de",
+    "black": "#263238",
+    "red": "#ec5f67",
+    "green": "#8bd649",
+    "yellow": "#ffcc00",
+    "blue": "#89ddff",
+    "purple": "#82aaff",
+    "cyan": "#80cbc4",
+    "white": "#cdd3de",
+    "brightBlack": "#707880",
+    "brightRed": "#ea9560",
+    "brightGreen": "#2c393f",
+    "brightYellow": "#37474f",
+    "brightBlue": "#c9ccd3",
+    "brightPurple": "#d5dbe5",
+    "brightCyan": "#ec5f67",
+    "brightWhite": "#ffffff"
+}

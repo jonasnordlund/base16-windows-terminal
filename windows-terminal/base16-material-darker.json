@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Material Darker",
+    "background": "#212121",
+    "foreground": "#eeffff",
+    "black": "#212121",
+    "red": "#f07178",
+    "green": "#c3e88d",
+    "yellow": "#ffcb6b",
+    "blue": "#82aaff",
+    "purple": "#c792ea",
+    "cyan": "#89ddff",
+    "white": "#eeffff",
+    "brightBlack": "#4a4a4a",
+    "brightRed": "#f78c6c",
+    "brightGreen": "#303030",
+    "brightYellow": "#353535",
+    "brightBlue": "#b2ccd6",
+    "brightPurple": "#eeffff",
+    "brightCyan": "#ff5370",
+    "brightWhite": "#ffffff"
+}

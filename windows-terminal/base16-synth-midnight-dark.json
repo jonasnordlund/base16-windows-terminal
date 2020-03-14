@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Synth Midnight Dark",
+    "background": "#040404",
+    "foreground": "#dfdbdf",
+    "black": "#040404",
+    "red": "#b53b50",
+    "green": "#06ea61",
+    "yellow": "#dae84d",
+    "blue": "#03aeff",
+    "purple": "#ea5ce2",
+    "cyan": "#7cede9",
+    "white": "#dfdbdf",
+    "brightBlack": "#61507a",
+    "brightRed": "#e4600e",
+    "brightGreen": "#141414",
+    "brightYellow": "#242424",
+    "brightBlue": "#bfbbbf",
+    "brightPurple": "#efebef",
+    "brightCyan": "#9d4d0e",
+    "brightWhite": "#fffbff"
+}

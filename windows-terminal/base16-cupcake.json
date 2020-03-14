@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Cupcake",
+    "background": "#fbf1f2",
+    "foreground": "#8b8198",
+    "black": "#fbf1f2",
+    "red": "#d57e85",
+    "green": "#a3b367",
+    "yellow": "#dcb16c",
+    "blue": "#7297b9",
+    "purple": "#bb99b4",
+    "cyan": "#69a9a7",
+    "white": "#8b8198",
+    "brightBlack": "#bfb9c6",
+    "brightRed": "#ebb790",
+    "brightGreen": "#f2f1f4",
+    "brightYellow": "#d8d5dd",
+    "brightBlue": "#a59daf",
+    "brightPurple": "#72677e",
+    "brightCyan": "#baa58c",
+    "brightWhite": "#585062"
+}

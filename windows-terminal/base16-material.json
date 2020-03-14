@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Material",
+    "background": "#263238",
+    "foreground": "#eeffff",
+    "black": "#263238",
+    "red": "#f07178",
+    "green": "#c3e88d",
+    "yellow": "#ffcb6b",
+    "blue": "#82aaff",
+    "purple": "#c792ea",
+    "cyan": "#89ddff",
+    "white": "#eeffff",
+    "brightBlack": "#546e7a",
+    "brightRed": "#f78c6c",
+    "brightGreen": "#2e3c43",
+    "brightYellow": "#314549",
+    "brightBlue": "#b2ccd6",
+    "brightPurple": "#eeffff",
+    "brightCyan": "#ff5370",
+    "brightWhite": "#ffffff"
+}

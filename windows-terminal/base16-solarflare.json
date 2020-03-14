@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Solar Flare",
+    "background": "#18262f",
+    "foreground": "#a6afb8",
+    "black": "#18262f",
+    "red": "#ef5253",
+    "green": "#7cc844",
+    "yellow": "#e4b51c",
+    "blue": "#33b5e1",
+    "purple": "#a363d5",
+    "cyan": "#52cbb0",
+    "white": "#a6afb8",
+    "brightBlack": "#667581",
+    "brightRed": "#e66b2b",
+    "brightGreen": "#222e38",
+    "brightYellow": "#586875",
+    "brightBlue": "#85939e",
+    "brightPurple": "#e8e9ed",
+    "brightCyan": "#d73c9a",
+    "brightWhite": "#f5f7fa"
+}

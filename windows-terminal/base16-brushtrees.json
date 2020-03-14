@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Brush Trees",
+    "background": "#e3efef",
+    "foreground": "#6d828e",
+    "black": "#e3efef",
+    "red": "#b38686",
+    "green": "#87b386",
+    "yellow": "#aab386",
+    "blue": "#868cb3",
+    "purple": "#b386b2",
+    "cyan": "#86b3b3",
+    "white": "#6d828e",
+    "brightBlack": "#98afb5",
+    "brightRed": "#d8bba2",
+    "brightGreen": "#c9dbdc",
+    "brightYellow": "#b0c5c8",
+    "brightBlue": "#8299a1",
+    "brightPurple": "#5a6d7a",
+    "brightCyan": "#b39f9f",
+    "brightWhite": "#485867"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Nord",
+    "background": "#2e3440",
+    "foreground": "#e5e9f0",
+    "black": "#2e3440",
+    "red": "#88c0d0",
+    "green": "#bf616a",
+    "yellow": "#5e81ac",
+    "blue": "#ebcb8b",
+    "purple": "#a3be8c",
+    "cyan": "#d08770",
+    "white": "#e5e9f0",
+    "brightBlack": "#4c566a",
+    "brightRed": "#81a1c1",
+    "brightGreen": "#3b4252",
+    "brightYellow": "#434c5e",
+    "brightBlue": "#d8dee9",
+    "brightPurple": "#eceff4",
+    "brightCyan": "#b48ead",
+    "brightWhite": "#8fbcbb"
+}

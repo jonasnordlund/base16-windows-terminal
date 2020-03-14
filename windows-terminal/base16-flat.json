@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Flat",
+    "background": "#2c3e50",
+    "foreground": "#e0e0e0",
+    "black": "#2c3e50",
+    "red": "#e74c3c",
+    "green": "#2ecc71",
+    "yellow": "#f1c40f",
+    "blue": "#3498db",
+    "purple": "#9b59b6",
+    "cyan": "#1abc9c",
+    "white": "#e0e0e0",
+    "brightBlack": "#95a5a6",
+    "brightRed": "#e67e22",
+    "brightGreen": "#34495e",
+    "brightYellow": "#7f8c8d",
+    "brightBlue": "#bdc3c7",
+    "brightPurple": "#f5f5f5",
+    "brightCyan": "#be643c",
+    "brightWhite": "#ecf0f1"
+}

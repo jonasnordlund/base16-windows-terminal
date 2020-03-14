@@ -1,0 +1,21 @@
+{
+    "name": "Base16 OceanicNext",
+    "background": "#1b2b34",
+    "foreground": "#c0c5ce",
+    "black": "#1b2b34",
+    "red": "#ec5f67",
+    "green": "#99c794",
+    "yellow": "#fac863",
+    "blue": "#6699cc",
+    "purple": "#c594c5",
+    "cyan": "#5fb3b3",
+    "white": "#c0c5ce",
+    "brightBlack": "#65737e",
+    "brightRed": "#f99157",
+    "brightGreen": "#343d46",
+    "brightYellow": "#4f5b66",
+    "brightBlue": "#a7adba",
+    "brightPurple": "#cdd3de",
+    "brightCyan": "#ab7967",
+    "brightWhite": "#d8dee9"
+}

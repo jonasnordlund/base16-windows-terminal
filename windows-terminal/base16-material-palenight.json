@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Material Palenight",
+    "background": "#292d3e",
+    "foreground": "#959dcb",
+    "black": "#292d3e",
+    "red": "#f07178",
+    "green": "#c3e88d",
+    "yellow": "#ffcb6b",
+    "blue": "#82aaff",
+    "purple": "#c792ea",
+    "cyan": "#89ddff",
+    "white": "#959dcb",
+    "brightBlack": "#676e95",
+    "brightRed": "#f78c6c",
+    "brightGreen": "#444267",
+    "brightYellow": "#32374d",
+    "brightBlue": "#8796b0",
+    "brightPurple": "#959dcb",
+    "brightCyan": "#ff5370",
+    "brightWhite": "#ffffff"
+}

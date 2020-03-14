@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Google Light",
+    "background": "#ffffff",
+    "foreground": "#373b41",
+    "black": "#ffffff",
+    "red": "#cc342b",
+    "green": "#198844",
+    "yellow": "#fba922",
+    "blue": "#3971ed",
+    "purple": "#a36ac7",
+    "cyan": "#3971ed",
+    "white": "#373b41",
+    "brightBlack": "#b4b7b4",
+    "brightRed": "#f96a38",
+    "brightGreen": "#e0e0e0",
+    "brightYellow": "#c5c8c6",
+    "brightBlue": "#969896",
+    "brightPurple": "#282a2e",
+    "brightCyan": "#3971ed",
+    "brightWhite": "#1d1f21"
+}

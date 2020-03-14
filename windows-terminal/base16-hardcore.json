@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Hardcore",
+    "background": "#212121",
+    "foreground": "#cdcdcd",
+    "black": "#212121",
+    "red": "#f92672",
+    "green": "#a6e22e",
+    "yellow": "#e6db74",
+    "blue": "#66d9ef",
+    "purple": "#9e6ffe",
+    "cyan": "#708387",
+    "white": "#cdcdcd",
+    "brightBlack": "#4a4a4a",
+    "brightRed": "#fd971f",
+    "brightGreen": "#303030",
+    "brightYellow": "#353535",
+    "brightBlue": "#707070",
+    "brightPurple": "#e5e5e5",
+    "brightCyan": "#e8b882",
+    "brightWhite": "#ffffff"
+}

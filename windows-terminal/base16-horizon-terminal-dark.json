@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Horizon Dark",
+    "background": "#1c1e26",
+    "foreground": "#cbced0",
+    "black": "#1c1e26",
+    "red": "#e95678",
+    "green": "#29d398",
+    "yellow": "#fac29a",
+    "blue": "#26bbd9",
+    "purple": "#ee64ac",
+    "cyan": "#59e1e3",
+    "white": "#cbced0",
+    "brightBlack": "#6f6f70",
+    "brightRed": "#fab795",
+    "brightGreen": "#232530",
+    "brightYellow": "#2e303e",
+    "brightBlue": "#9da0a2",
+    "brightPurple": "#dcdfe4",
+    "brightCyan": "#f09383",
+    "brightWhite": "#e3e6ee"
+}

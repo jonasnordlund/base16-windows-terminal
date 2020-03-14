@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Horizon Light",
+    "background": "#fdf0ed",
+    "foreground": "#403c3d",
+    "black": "#fdf0ed",
+    "red": "#e95678",
+    "green": "#29d398",
+    "yellow": "#fadad1",
+    "blue": "#26bbd9",
+    "purple": "#ee64ac",
+    "cyan": "#59e1e3",
+    "white": "#403c3d",
+    "brightBlack": "#bdb3b1",
+    "brightRed": "#f9cec3",
+    "brightGreen": "#fadad1",
+    "brightYellow": "#f9cbbe",
+    "brightBlue": "#948c8a",
+    "brightPurple": "#302c2d",
+    "brightCyan": "#f9cbbe",
+    "brightWhite": "#201c1d"
+}

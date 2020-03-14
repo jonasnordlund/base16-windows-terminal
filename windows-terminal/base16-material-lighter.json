@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Material Lighter",
+    "background": "#fafafa",
+    "foreground": "#80cbc4",
+    "black": "#fafafa",
+    "red": "#ff5370",
+    "green": "#91b859",
+    "yellow": "#ffb62c",
+    "blue": "#6182b8",
+    "purple": "#7c4dff",
+    "cyan": "#39adb5",
+    "white": "#80cbc4",
+    "brightBlack": "#ccd7da",
+    "brightRed": "#f76d47",
+    "brightGreen": "#e7eaec",
+    "brightYellow": "#cceae7",
+    "brightBlue": "#8796b0",
+    "brightPurple": "#80cbc4",
+    "brightCyan": "#e53935",
+    "brightWhite": "#ffffff"
+}

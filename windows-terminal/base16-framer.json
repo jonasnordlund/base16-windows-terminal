@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Framer",
+    "background": "#181818",
+    "foreground": "#d0d0d0",
+    "black": "#181818",
+    "red": "#fd886b",
+    "green": "#32ccdc",
+    "yellow": "#fecb6e",
+    "blue": "#20bcfc",
+    "purple": "#ba8cfc",
+    "cyan": "#acddfd",
+    "white": "#d0d0d0",
+    "brightBlack": "#747474",
+    "brightRed": "#fc4769",
+    "brightGreen": "#151515",
+    "brightYellow": "#464646",
+    "brightBlue": "#b9b9b9",
+    "brightPurple": "#e8e8e8",
+    "brightCyan": "#b15f4a",
+    "brightWhite": "#eeeeee"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Base16 Summerfruit Dark",
+    "background": "#151515",
+    "foreground": "#d0d0d0",
+    "black": "#151515",
+    "red": "#ff0086",
+    "green": "#00c918",
+    "yellow": "#aba800",
+    "blue": "#3777e6",
+    "purple": "#ad00a1",
+    "cyan": "#1faaaa",
+    "white": "#d0d0d0",
+    "brightBlack": "#505050",
+    "brightRed": "#fd8900",
+    "brightGreen": "#202020",
+    "brightYellow": "#303030",
+    "brightBlue": "#b0b0b0",
+    "brightPurple": "#e0e0e0",
+    "brightCyan": "#cc6633",
+    "brightWhite": "#ffffff"
+}
