@@ -11,7 +11,7 @@ Running this command with a single command line argument pointing to the folder 
 
 Set the key `colorScheme` in either your Windows Terminal profile of choice or the defaults section to the theme name, e.g.
 
-```json
+```javascript
 {
     "$schema": "https://aka.ms/terminal-profiles-schema",
     "defaultProfile": "{574e775e-4f2a-5b96-ac1e-a2962a402336}",
