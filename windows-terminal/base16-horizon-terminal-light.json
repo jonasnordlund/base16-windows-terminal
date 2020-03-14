@@ -1,21 +1,28 @@
 {
     "name": "Base16 Horizon Light",
-    "background": "#fdf0ed",
-    "foreground": "#403c3d",
-    "black": "#fdf0ed",
-    "red": "#e95678",
-    "green": "#29d398",
-    "yellow": "#fadad1",
-    "blue": "#26bbd9",
-    "purple": "#ee64ac",
-    "cyan": "#59e1e3",
-    "white": "#403c3d",
-    "brightBlack": "#bdb3b1",
-    "brightRed": "#f9cec3",
-    "brightGreen": "#fadad1",
-    "brightYellow": "#f9cbbe",
-    "brightBlue": "#948c8a",
-    "brightPurple": "#302c2d",
-    "brightCyan": "#f9cbbe",
-    "brightWhite": "#201c1d"
+    "background": "#fdf0ed",    // base00
+    "foreground": "#403c3d",    // base05
+    "black": "#fdf0ed",         // base00
+    "red": "#e95678",           // base08
+    "green": "#29d398",         // base0B
+    //"yellow": "#f9cec3",        // base09
+    "yellow": "#fadad1",        // base0A
+    "blue": "#26bbd9",          // base0D
+    "purple": "#ee64ac",        // base0E
+    "cyan": "#59e1e3",          // base0C
+    "white": "#403c3d",         // base05
+    "brightBlack": "#bdb3b1",   // base03
+    //"brightRed": "#948c8a",     // base04
+    "brightRed": "#e95678",     // base08
+    //"brightGreen": "#f9cbbe",   // base02
+    "brightGreen": "#29d398",   // base0B
+    //"brightYellow": "#302c2d",  // base06
+    "brightYellow": "#fadad1",  // base0A
+    //"brightBlue": "#fadad1",    // base01
+    "brightBlue": "#26bbd9",    // base0D
+    //"brightPurple": "#403c3d",  // base05
+    "brightPurple": "#ee64ac",  // base0E
+    //"brightCyan": "#bdb3b1",    // base03
+    "brightCyan": "#59e1e3",    // base0C
+    "brightWhite": "#201c1d"    // base07
 }

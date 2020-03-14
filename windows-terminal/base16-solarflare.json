@@ -1,21 +1,28 @@
 {
     "name": "Base16 Solar Flare",
-    "background": "#18262f",
-    "foreground": "#a6afb8",
-    "black": "#18262f",
-    "red": "#ef5253",
-    "green": "#7cc844",
-    "yellow": "#e4b51c",
-    "blue": "#33b5e1",
-    "purple": "#a363d5",
-    "cyan": "#52cbb0",
-    "white": "#a6afb8",
-    "brightBlack": "#667581",
-    "brightRed": "#e66b2b",
-    "brightGreen": "#222e38",
-    "brightYellow": "#586875",
-    "brightBlue": "#85939e",
-    "brightPurple": "#e8e9ed",
-    "brightCyan": "#d73c9a",
-    "brightWhite": "#f5f7fa"
+    "background": "#18262f",    // base00
+    "foreground": "#a6afb8",    // base05
+    "black": "#18262f",         // base00
+    "red": "#ef5253",           // base08
+    "green": "#7cc844",         // base0B
+    //"yellow": "#e66b2b",        // base09
+    "yellow": "#e4b51c",        // base0A
+    "blue": "#33b5e1",          // base0D
+    "purple": "#a363d5",        // base0E
+    "cyan": "#52cbb0",          // base0C
+    "white": "#a6afb8",         // base05
+    "brightBlack": "#667581",   // base03
+    //"brightRed": "#85939e",     // base04
+    "brightRed": "#ef5253",     // base08
+    //"brightGreen": "#586875",   // base02
+    "brightGreen": "#7cc844",   // base0B
+    //"brightYellow": "#e8e9ed",  // base06
+    "brightYellow": "#e4b51c",  // base0A
+    //"brightBlue": "#222e38",    // base01
+    "brightBlue": "#33b5e1",    // base0D
+    //"brightPurple": "#a6afb8",  // base05
+    "brightPurple": "#a363d5",  // base0E
+    //"brightCyan": "#667581",    // base03
+    "brightCyan": "#52cbb0",    // base0C
+    "brightWhite": "#f5f7fa"    // base07
 }

@@ -1,21 +1,28 @@
 {
     "name": "Base16 Codeschool",
-    "background": "#232c31",
-    "foreground": "#9ea7a6",
-    "black": "#232c31",
-    "red": "#2a5491",
-    "green": "#237986",
-    "yellow": "#a03b1e",
-    "blue": "#484d79",
-    "purple": "#c59820",
-    "cyan": "#b02f30",
-    "white": "#9ea7a6",
-    "brightBlack": "#3f4944",
-    "brightRed": "#43820d",
-    "brightGreen": "#1c3657",
-    "brightYellow": "#2a343a",
-    "brightBlue": "#84898c",
-    "brightPurple": "#a7cfa3",
-    "brightCyan": "#c98344",
-    "brightWhite": "#b5d8f6"
+    "background": "#232c31",    // base00
+    "foreground": "#9ea7a6",    // base05
+    "black": "#232c31",         // base00
+    "red": "#2a5491",           // base08
+    "green": "#237986",         // base0B
+    //"yellow": "#43820d",        // base09
+    "yellow": "#a03b1e",        // base0A
+    "blue": "#484d79",          // base0D
+    "purple": "#c59820",        // base0E
+    "cyan": "#b02f30",          // base0C
+    "white": "#9ea7a6",         // base05
+    "brightBlack": "#3f4944",   // base03
+    //"brightRed": "#84898c",     // base04
+    "brightRed": "#2a5491",     // base08
+    //"brightGreen": "#2a343a",   // base02
+    "brightGreen": "#237986",   // base0B
+    //"brightYellow": "#a7cfa3",  // base06
+    "brightYellow": "#a03b1e",  // base0A
+    //"brightBlue": "#1c3657",    // base01
+    "brightBlue": "#484d79",    // base0D
+    //"brightPurple": "#9ea7a6",  // base05
+    "brightPurple": "#c59820",  // base0E
+    //"brightCyan": "#3f4944",    // base03
+    "brightCyan": "#b02f30",    // base0C
+    "brightWhite": "#b5d8f6"    // base07
 }

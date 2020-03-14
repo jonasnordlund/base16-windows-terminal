@@ -1,21 +1,28 @@
 {
     "name": "Base16 Gigavolt",
-    "background": "#202126",
-    "foreground": "#e9e7e1",
-    "black": "#202126",
-    "red": "#ff661a",
-    "green": "#f2e6a9",
-    "yellow": "#ffdc2d",
-    "blue": "#40bfff",
-    "purple": "#ae94f9",
-    "cyan": "#fb6acb",
-    "white": "#e9e7e1",
-    "brightBlack": "#a1d2e6",
-    "brightRed": "#19f988",
-    "brightGreen": "#2d303d",
-    "brightYellow": "#5a576e",
-    "brightBlue": "#cad3ff",
-    "brightPurple": "#eff0f9",
-    "brightCyan": "#6187ff",
-    "brightWhite": "#f2fbff"
+    "background": "#202126",    // base00
+    "foreground": "#e9e7e1",    // base05
+    "black": "#202126",         // base00
+    "red": "#ff661a",           // base08
+    "green": "#f2e6a9",         // base0B
+    //"yellow": "#19f988",        // base09
+    "yellow": "#ffdc2d",        // base0A
+    "blue": "#40bfff",          // base0D
+    "purple": "#ae94f9",        // base0E
+    "cyan": "#fb6acb",          // base0C
+    "white": "#e9e7e1",         // base05
+    "brightBlack": "#a1d2e6",   // base03
+    //"brightRed": "#cad3ff",     // base04
+    "brightRed": "#ff661a",     // base08
+    //"brightGreen": "#5a576e",   // base02
+    "brightGreen": "#f2e6a9",   // base0B
+    //"brightYellow": "#eff0f9",  // base06
+    "brightYellow": "#ffdc2d",  // base0A
+    //"brightBlue": "#2d303d",    // base01
+    "brightBlue": "#40bfff",    // base0D
+    //"brightPurple": "#e9e7e1",  // base05
+    "brightPurple": "#ae94f9",  // base0E
+    //"brightCyan": "#a1d2e6",    // base03
+    "brightCyan": "#fb6acb",    // base0C
+    "brightWhite": "#f2fbff"    // base07
 }

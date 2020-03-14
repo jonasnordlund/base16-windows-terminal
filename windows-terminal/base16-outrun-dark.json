@@ -1,21 +1,28 @@
 {
     "name": "Base16 Outrun Dark",
-    "background": "#00002a",
-    "foreground": "#d0d0fa",
-    "black": "#00002a",
-    "red": "#ff4242",
-    "green": "#59f176",
-    "yellow": "#f3e877",
-    "blue": "#66b0ff",
-    "purple": "#f10596",
-    "cyan": "#0ef0f0",
-    "white": "#d0d0fa",
-    "brightBlack": "#50507a",
-    "brightRed": "#fc8d28",
-    "brightGreen": "#20204a",
-    "brightYellow": "#30305a",
-    "brightBlue": "#b0b0da",
-    "brightPurple": "#e0e0ff",
-    "brightCyan": "#f003ef",
-    "brightWhite": "#f5f5ff"
+    "background": "#00002a",    // base00
+    "foreground": "#d0d0fa",    // base05
+    "black": "#00002a",         // base00
+    "red": "#ff4242",           // base08
+    "green": "#59f176",         // base0B
+    //"yellow": "#fc8d28",        // base09
+    "yellow": "#f3e877",        // base0A
+    "blue": "#66b0ff",          // base0D
+    "purple": "#f10596",        // base0E
+    "cyan": "#0ef0f0",          // base0C
+    "white": "#d0d0fa",         // base05
+    "brightBlack": "#50507a",   // base03
+    //"brightRed": "#b0b0da",     // base04
+    "brightRed": "#ff4242",     // base08
+    //"brightGreen": "#30305a",   // base02
+    "brightGreen": "#59f176",   // base0B
+    //"brightYellow": "#e0e0ff",  // base06
+    "brightYellow": "#f3e877",  // base0A
+    //"brightBlue": "#20204a",    // base01
+    "brightBlue": "#66b0ff",    // base0D
+    //"brightPurple": "#d0d0fa",  // base05
+    "brightPurple": "#f10596",  // base0E
+    //"brightCyan": "#50507a",    // base03
+    "brightCyan": "#0ef0f0",    // base0C
+    "brightWhite": "#f5f5ff"    // base07
 }

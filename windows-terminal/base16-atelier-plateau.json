@@ -1,21 +1,28 @@
 {
     "name": "Base16 Atelier Plateau",
-    "background": "#1b1818",
-    "foreground": "#8a8585",
-    "black": "#1b1818",
-    "red": "#ca4949",
-    "green": "#4b8b8b",
-    "yellow": "#a06e3b",
-    "blue": "#7272ca",
-    "purple": "#8464c4",
-    "cyan": "#5485b6",
-    "white": "#8a8585",
-    "brightBlack": "#655d5d",
-    "brightRed": "#b45a3c",
-    "brightGreen": "#292424",
-    "brightYellow": "#585050",
-    "brightBlue": "#7e7777",
-    "brightPurple": "#e7dfdf",
-    "brightCyan": "#bd5187",
-    "brightWhite": "#f4ecec"
+    "background": "#1b1818",    // base00
+    "foreground": "#8a8585",    // base05
+    "black": "#1b1818",         // base00
+    "red": "#ca4949",           // base08
+    "green": "#4b8b8b",         // base0B
+    //"yellow": "#b45a3c",        // base09
+    "yellow": "#a06e3b",        // base0A
+    "blue": "#7272ca",          // base0D
+    "purple": "#8464c4",        // base0E
+    "cyan": "#5485b6",          // base0C
+    "white": "#8a8585",         // base05
+    "brightBlack": "#655d5d",   // base03
+    //"brightRed": "#7e7777",     // base04
+    "brightRed": "#ca4949",     // base08
+    //"brightGreen": "#585050",   // base02
+    "brightGreen": "#4b8b8b",   // base0B
+    //"brightYellow": "#e7dfdf",  // base06
+    "brightYellow": "#a06e3b",  // base0A
+    //"brightBlue": "#292424",    // base01
+    "brightBlue": "#7272ca",    // base0D
+    //"brightPurple": "#8a8585",  // base05
+    "brightPurple": "#8464c4",  // base0E
+    //"brightCyan": "#655d5d",    // base03
+    "brightCyan": "#5485b6",    // base0C
+    "brightWhite": "#f4ecec"    // base07
 }

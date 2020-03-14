@@ -1,21 +1,28 @@
 {
     "name": "Base16 Railscasts",
-    "background": "#2b2b2b",
-    "foreground": "#e6e1dc",
-    "black": "#2b2b2b",
-    "red": "#da4939",
-    "green": "#a5c261",
-    "yellow": "#ffc66d",
-    "blue": "#6d9cbe",
-    "purple": "#b6b3eb",
-    "cyan": "#519f50",
-    "white": "#e6e1dc",
-    "brightBlack": "#5a647e",
-    "brightRed": "#cc7833",
-    "brightGreen": "#272935",
-    "brightYellow": "#3a4055",
-    "brightBlue": "#d4cfc9",
-    "brightPurple": "#f4f1ed",
-    "brightCyan": "#bc9458",
-    "brightWhite": "#f9f7f3"
+    "background": "#2b2b2b",    // base00
+    "foreground": "#e6e1dc",    // base05
+    "black": "#2b2b2b",         // base00
+    "red": "#da4939",           // base08
+    "green": "#a5c261",         // base0B
+    //"yellow": "#cc7833",        // base09
+    "yellow": "#ffc66d",        // base0A
+    "blue": "#6d9cbe",          // base0D
+    "purple": "#b6b3eb",        // base0E
+    "cyan": "#519f50",          // base0C
+    "white": "#e6e1dc",         // base05
+    "brightBlack": "#5a647e",   // base03
+    //"brightRed": "#d4cfc9",     // base04
+    "brightRed": "#da4939",     // base08
+    //"brightGreen": "#3a4055",   // base02
+    "brightGreen": "#a5c261",   // base0B
+    //"brightYellow": "#f4f1ed",  // base06
+    "brightYellow": "#ffc66d",  // base0A
+    //"brightBlue": "#272935",    // base01
+    "brightBlue": "#6d9cbe",    // base0D
+    //"brightPurple": "#e6e1dc",  // base05
+    "brightPurple": "#b6b3eb",  // base0E
+    //"brightCyan": "#5a647e",    // base03
+    "brightCyan": "#519f50",    // base0C
+    "brightWhite": "#f9f7f3"    // base07
 }

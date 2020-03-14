@@ -1,21 +1,28 @@
 {
     "name": "Base16 Atelier Savanna Light",
-    "background": "#ecf4ee",
-    "foreground": "#526057",
-    "black": "#ecf4ee",
-    "red": "#b16139",
-    "green": "#489963",
-    "yellow": "#a07e3b",
-    "blue": "#478c90",
-    "purple": "#55859b",
-    "cyan": "#1c9aa0",
-    "white": "#526057",
-    "brightBlack": "#78877d",
-    "brightRed": "#9f713c",
-    "brightGreen": "#dfe7e2",
-    "brightYellow": "#87928a",
-    "brightBlue": "#5f6d64",
-    "brightPurple": "#232a25",
-    "brightCyan": "#867469",
-    "brightWhite": "#171c19"
+    "background": "#ecf4ee",    // base00
+    "foreground": "#526057",    // base05
+    "black": "#ecf4ee",         // base00
+    "red": "#b16139",           // base08
+    "green": "#489963",         // base0B
+    //"yellow": "#9f713c",        // base09
+    "yellow": "#a07e3b",        // base0A
+    "blue": "#478c90",          // base0D
+    "purple": "#55859b",        // base0E
+    "cyan": "#1c9aa0",          // base0C
+    "white": "#526057",         // base05
+    "brightBlack": "#78877d",   // base03
+    //"brightRed": "#5f6d64",     // base04
+    "brightRed": "#b16139",     // base08
+    //"brightGreen": "#87928a",   // base02
+    "brightGreen": "#489963",   // base0B
+    //"brightYellow": "#232a25",  // base06
+    "brightYellow": "#a07e3b",  // base0A
+    //"brightBlue": "#dfe7e2",    // base01
+    "brightBlue": "#478c90",    // base0D
+    //"brightPurple": "#526057",  // base05
+    "brightPurple": "#55859b",  // base0E
+    //"brightCyan": "#78877d",    // base03
+    "brightCyan": "#1c9aa0",    // base0C
+    "brightWhite": "#171c19"    // base07
 }

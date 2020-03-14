@@ -1,21 +1,28 @@
 {
     "name": "Base16 Atelier Lakeside Light",
-    "background": "#ebf8ff",
-    "foreground": "#516d7b",
-    "black": "#ebf8ff",
-    "red": "#d22d72",
-    "green": "#568c3b",
-    "yellow": "#8a8a0f",
-    "blue": "#257fad",
-    "purple": "#6b6bb8",
-    "cyan": "#2d8f6f",
-    "white": "#516d7b",
-    "brightBlack": "#7195a8",
-    "brightRed": "#935c25",
-    "brightGreen": "#c1e4f6",
-    "brightYellow": "#7ea2b4",
-    "brightBlue": "#5a7b8c",
-    "brightPurple": "#1f292e",
-    "brightCyan": "#b72dd2",
-    "brightWhite": "#161b1d"
+    "background": "#ebf8ff",    // base00
+    "foreground": "#516d7b",    // base05
+    "black": "#ebf8ff",         // base00
+    "red": "#d22d72",           // base08
+    "green": "#568c3b",         // base0B
+    //"yellow": "#935c25",        // base09
+    "yellow": "#8a8a0f",        // base0A
+    "blue": "#257fad",          // base0D
+    "purple": "#6b6bb8",        // base0E
+    "cyan": "#2d8f6f",          // base0C
+    "white": "#516d7b",         // base05
+    "brightBlack": "#7195a8",   // base03
+    //"brightRed": "#5a7b8c",     // base04
+    "brightRed": "#d22d72",     // base08
+    //"brightGreen": "#7ea2b4",   // base02
+    "brightGreen": "#568c3b",   // base0B
+    //"brightYellow": "#1f292e",  // base06
+    "brightYellow": "#8a8a0f",  // base0A
+    //"brightBlue": "#c1e4f6",    // base01
+    "brightBlue": "#257fad",    // base0D
+    //"brightPurple": "#516d7b",  // base05
+    "brightPurple": "#6b6bb8",  // base0E
+    //"brightCyan": "#7195a8",    // base03
+    "brightCyan": "#2d8f6f",    // base0C
+    "brightWhite": "#161b1d"    // base07
 }

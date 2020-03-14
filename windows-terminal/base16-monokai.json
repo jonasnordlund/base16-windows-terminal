@@ -1,21 +1,28 @@
 {
     "name": "Base16 Monokai",
-    "background": "#272822",
-    "foreground": "#f8f8f2",
-    "black": "#272822",
-    "red": "#f92672",
-    "green": "#a6e22e",
-    "yellow": "#f4bf75",
-    "blue": "#66d9ef",
-    "purple": "#ae81ff",
-    "cyan": "#a1efe4",
-    "white": "#f8f8f2",
-    "brightBlack": "#75715e",
-    "brightRed": "#fd971f",
-    "brightGreen": "#383830",
-    "brightYellow": "#49483e",
-    "brightBlue": "#a59f85",
-    "brightPurple": "#f5f4f1",
-    "brightCyan": "#cc6633",
-    "brightWhite": "#f9f8f5"
+    "background": "#272822",    // base00
+    "foreground": "#f8f8f2",    // base05
+    "black": "#272822",         // base00
+    "red": "#f92672",           // base08
+    "green": "#a6e22e",         // base0B
+    //"yellow": "#fd971f",        // base09
+    "yellow": "#f4bf75",        // base0A
+    "blue": "#66d9ef",          // base0D
+    "purple": "#ae81ff",        // base0E
+    "cyan": "#a1efe4",          // base0C
+    "white": "#f8f8f2",         // base05
+    "brightBlack": "#75715e",   // base03
+    //"brightRed": "#a59f85",     // base04
+    "brightRed": "#f92672",     // base08
+    //"brightGreen": "#49483e",   // base02
+    "brightGreen": "#a6e22e",   // base0B
+    //"brightYellow": "#f5f4f1",  // base06
+    "brightYellow": "#f4bf75",  // base0A
+    //"brightBlue": "#383830",    // base01
+    "brightBlue": "#66d9ef",    // base0D
+    //"brightPurple": "#f8f8f2",  // base05
+    "brightPurple": "#ae81ff",  // base0E
+    //"brightCyan": "#75715e",    // base03
+    "brightCyan": "#a1efe4",    // base0C
+    "brightWhite": "#f9f8f5"    // base07
 }

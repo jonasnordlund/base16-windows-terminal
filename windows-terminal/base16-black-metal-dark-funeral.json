@@ -1,21 +1,28 @@
 {
     "name": "Base16 Black Metal (Dark Funeral)",
-    "background": "#000000",
-    "foreground": "#c1c1c1",
-    "black": "#000000",
-    "red": "#5f8787",
-    "green": "#d0dfee",
-    "yellow": "#5f81a5",
-    "blue": "#888888",
-    "purple": "#999999",
-    "cyan": "#aaaaaa",
-    "white": "#c1c1c1",
-    "brightBlack": "#333333",
-    "brightRed": "#aaaaaa",
-    "brightGreen": "#121212",
-    "brightYellow": "#222222",
-    "brightBlue": "#999999",
-    "brightPurple": "#999999",
-    "brightCyan": "#444444",
-    "brightWhite": "#c1c1c1"
+    "background": "#000000",    // base00
+    "foreground": "#c1c1c1",    // base05
+    "black": "#000000",         // base00
+    "red": "#5f8787",           // base08
+    "green": "#d0dfee",         // base0B
+    //"yellow": "#aaaaaa",        // base09
+    "yellow": "#5f81a5",        // base0A
+    "blue": "#888888",          // base0D
+    "purple": "#999999",        // base0E
+    "cyan": "#aaaaaa",          // base0C
+    "white": "#c1c1c1",         // base05
+    "brightBlack": "#333333",   // base03
+    //"brightRed": "#999999",     // base04
+    "brightRed": "#5f8787",     // base08
+    //"brightGreen": "#222222",   // base02
+    "brightGreen": "#d0dfee",   // base0B
+    //"brightYellow": "#999999",  // base06
+    "brightYellow": "#5f81a5",  // base0A
+    //"brightBlue": "#121212",    // base01
+    "brightBlue": "#888888",    // base0D
+    //"brightPurple": "#c1c1c1",  // base05
+    "brightPurple": "#999999",  // base0E
+    //"brightCyan": "#333333",    // base03
+    "brightCyan": "#aaaaaa",    // base0C
+    "brightWhite": "#c1c1c1"    // base07
 }

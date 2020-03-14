@@ -1,21 +1,28 @@
 {
     "name": "Base16 Nova",
-    "background": "#3c4c55",
-    "foreground": "#c5d4dd",
-    "black": "#3c4c55",
-    "red": "#83afe5",
-    "green": "#7fc1ca",
-    "yellow": "#a8ce93",
-    "blue": "#83afe5",
-    "purple": "#9a93e1",
-    "cyan": "#f2c38f",
-    "white": "#c5d4dd",
-    "brightBlack": "#899ba6",
-    "brightRed": "#7fc1ca",
-    "brightGreen": "#556873",
-    "brightYellow": "#6a7d89",
-    "brightBlue": "#899ba6",
-    "brightPurple": "#899ba6",
-    "brightCyan": "#f2c38f",
-    "brightWhite": "#556873"
+    "background": "#3c4c55",    // base00
+    "foreground": "#c5d4dd",    // base05
+    "black": "#3c4c55",         // base00
+    "red": "#83afe5",           // base08
+    "green": "#7fc1ca",         // base0B
+    //"yellow": "#7fc1ca",        // base09
+    "yellow": "#a8ce93",        // base0A
+    "blue": "#83afe5",          // base0D
+    "purple": "#9a93e1",        // base0E
+    "cyan": "#f2c38f",          // base0C
+    "white": "#c5d4dd",         // base05
+    "brightBlack": "#899ba6",   // base03
+    //"brightRed": "#899ba6",     // base04
+    "brightRed": "#83afe5",     // base08
+    //"brightGreen": "#6a7d89",   // base02
+    "brightGreen": "#7fc1ca",   // base0B
+    //"brightYellow": "#899ba6",  // base06
+    "brightYellow": "#a8ce93",  // base0A
+    //"brightBlue": "#556873",    // base01
+    "brightBlue": "#83afe5",    // base0D
+    //"brightPurple": "#c5d4dd",  // base05
+    "brightPurple": "#9a93e1",  // base0E
+    //"brightCyan": "#899ba6",    // base03
+    "brightCyan": "#f2c38f",    // base0C
+    "brightWhite": "#556873"    // base07
 }

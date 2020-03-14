@@ -1,21 +1,28 @@
 {
     "name": "Base16 Atelier Seaside Light",
-    "background": "#f4fbf4",
-    "foreground": "#5e6e5e",
-    "black": "#f4fbf4",
-    "red": "#e6193c",
-    "green": "#29a329",
-    "yellow": "#98981b",
-    "blue": "#3d62f5",
-    "purple": "#ad2bee",
-    "cyan": "#1999b3",
-    "white": "#5e6e5e",
-    "brightBlack": "#809980",
-    "brightRed": "#87711d",
-    "brightGreen": "#cfe8cf",
-    "brightYellow": "#8ca68c",
-    "brightBlue": "#687d68",
-    "brightPurple": "#242924",
-    "brightCyan": "#e619c3",
-    "brightWhite": "#131513"
+    "background": "#f4fbf4",    // base00
+    "foreground": "#5e6e5e",    // base05
+    "black": "#f4fbf4",         // base00
+    "red": "#e6193c",           // base08
+    "green": "#29a329",         // base0B
+    //"yellow": "#87711d",        // base09
+    "yellow": "#98981b",        // base0A
+    "blue": "#3d62f5",          // base0D
+    "purple": "#ad2bee",        // base0E
+    "cyan": "#1999b3",          // base0C
+    "white": "#5e6e5e",         // base05
+    "brightBlack": "#809980",   // base03
+    //"brightRed": "#687d68",     // base04
+    "brightRed": "#e6193c",     // base08
+    //"brightGreen": "#8ca68c",   // base02
+    "brightGreen": "#29a329",   // base0B
+    //"brightYellow": "#242924",  // base06
+    "brightYellow": "#98981b",  // base0A
+    //"brightBlue": "#cfe8cf",    // base01
+    "brightBlue": "#3d62f5",    // base0D
+    //"brightPurple": "#5e6e5e",  // base05
+    "brightPurple": "#ad2bee",  // base0E
+    //"brightCyan": "#809980",    // base03
+    "brightCyan": "#1999b3",    // base0C
+    "brightWhite": "#131513"    // base07
 }

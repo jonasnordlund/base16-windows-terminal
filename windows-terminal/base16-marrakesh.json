@@ -1,21 +1,28 @@
 {
     "name": "Base16 Marrakesh",
-    "background": "#201602",
-    "foreground": "#948e48",
-    "black": "#201602",
-    "red": "#c35359",
-    "green": "#18974e",
-    "yellow": "#a88339",
-    "blue": "#477ca1",
-    "purple": "#8868b3",
-    "cyan": "#75a738",
-    "white": "#948e48",
-    "brightBlack": "#6c6823",
-    "brightRed": "#b36144",
-    "brightGreen": "#302e00",
-    "brightYellow": "#5f5b17",
-    "brightBlue": "#86813b",
-    "brightPurple": "#ccc37a",
-    "brightCyan": "#b3588e",
-    "brightWhite": "#faf0a5"
+    "background": "#201602",    // base00
+    "foreground": "#948e48",    // base05
+    "black": "#201602",         // base00
+    "red": "#c35359",           // base08
+    "green": "#18974e",         // base0B
+    //"yellow": "#b36144",        // base09
+    "yellow": "#a88339",        // base0A
+    "blue": "#477ca1",          // base0D
+    "purple": "#8868b3",        // base0E
+    "cyan": "#75a738",          // base0C
+    "white": "#948e48",         // base05
+    "brightBlack": "#6c6823",   // base03
+    //"brightRed": "#86813b",     // base04
+    "brightRed": "#c35359",     // base08
+    //"brightGreen": "#5f5b17",   // base02
+    "brightGreen": "#18974e",   // base0B
+    //"brightYellow": "#ccc37a",  // base06
+    "brightYellow": "#a88339",  // base0A
+    //"brightBlue": "#302e00",    // base01
+    "brightBlue": "#477ca1",    // base0D
+    //"brightPurple": "#948e48",  // base05
+    "brightPurple": "#8868b3",  // base0E
+    //"brightCyan": "#6c6823",    // base03
+    "brightCyan": "#75a738",    // base0C
+    "brightWhite": "#faf0a5"    // base07
 }

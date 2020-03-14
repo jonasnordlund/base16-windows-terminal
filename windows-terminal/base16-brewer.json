@@ -1,21 +1,28 @@
 {
     "name": "Base16 Brewer",
-    "background": "#0c0d0e",
-    "foreground": "#b7b8b9",
-    "black": "#0c0d0e",
-    "red": "#e31a1c",
-    "green": "#31a354",
-    "yellow": "#dca060",
-    "blue": "#3182bd",
-    "purple": "#756bb1",
-    "cyan": "#80b1d3",
-    "white": "#b7b8b9",
-    "brightBlack": "#737475",
-    "brightRed": "#e6550d",
-    "brightGreen": "#2e2f30",
-    "brightYellow": "#515253",
-    "brightBlue": "#959697",
-    "brightPurple": "#dadbdc",
-    "brightCyan": "#b15928",
-    "brightWhite": "#fcfdfe"
+    "background": "#0c0d0e",    // base00
+    "foreground": "#b7b8b9",    // base05
+    "black": "#0c0d0e",         // base00
+    "red": "#e31a1c",           // base08
+    "green": "#31a354",         // base0B
+    //"yellow": "#e6550d",        // base09
+    "yellow": "#dca060",        // base0A
+    "blue": "#3182bd",          // base0D
+    "purple": "#756bb1",        // base0E
+    "cyan": "#80b1d3",          // base0C
+    "white": "#b7b8b9",         // base05
+    "brightBlack": "#737475",   // base03
+    //"brightRed": "#959697",     // base04
+    "brightRed": "#e31a1c",     // base08
+    //"brightGreen": "#515253",   // base02
+    "brightGreen": "#31a354",   // base0B
+    //"brightYellow": "#dadbdc",  // base06
+    "brightYellow": "#dca060",  // base0A
+    //"brightBlue": "#2e2f30",    // base01
+    "brightBlue": "#3182bd",    // base0D
+    //"brightPurple": "#b7b8b9",  // base05
+    "brightPurple": "#756bb1",  // base0E
+    //"brightCyan": "#737475",    // base03
+    "brightCyan": "#80b1d3",    // base0C
+    "brightWhite": "#fcfdfe"    // base07
 }
