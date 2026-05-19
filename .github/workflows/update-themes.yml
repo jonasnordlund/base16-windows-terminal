@@ -1,0 +1,40 @@
+name: Update themes
+
+on:
+  # trigger on template changes
+  push:
+    paths:
+      - templates/**
+  # trigger on every saturday at 00:00
+  schedule:
+    - cron: "0 0 * * 6"
+  # manual trigger
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Base16 Builder Go
+        uses: tinted-theming/base16-builder-go@latest
+
+      - name: Build Combined Themes
+        run: |
+          ./combine-templates.sh > allthemes.json
+
+      - name: commit & push changes
+        run: |
+          new_branch=update-themes-$(date +'%Y%m%d%s')
+          git checkout -b $new_branch
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (
+            git add windows-terminal allthemes.json
+            git commit -m "fix: update themes"
+            git push -u origin $new_branch
+            gh pr create -B master --title 'Update color themes' --body 'Created by Github action' -a scaryrawr
+          )
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

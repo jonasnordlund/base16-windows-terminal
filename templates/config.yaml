@@ -1,3 +1,10 @@
 default: 
+    supported-systems: [base16]
     extension: .json
     output: windows-terminal
+
+base24:
+    supported-systems: [base24]
+    extension: .json
+    output: windows-terminal
+
